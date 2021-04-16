@@ -62,7 +62,7 @@ unset($_SESSION["email"]);
             </p>
             <p>
                 <i class="material-icons">schedule</i>
-                Seg a Sex, 8 as 17hrs. Sab, 8 as 12hrs
+                Seg a Sex, 9 as 17hrs. Sab, 9 as 13hrs
             </p>
         </div>
     </section>
@@ -79,8 +79,7 @@ unset($_SESSION["email"]);
                 <i class="material-icons">work</i>
                 <h4>Missão</h4>
                 <p>
-                    O Instituto Gehon tem como missão impactar a vidas das pessoas, transformando a sociedade através
-                    das nossas práticas sociais.
+                    O Instituto Gehon tem como missão impactar a vidas das pessoas, através da habitação social e regularização fundiária. Transformando a sociedade através das nossas práticas sociais.
                 </p>
             </div>
 
@@ -108,7 +107,7 @@ unset($_SESSION["email"]);
 
     <!-- maps -->
     <section class="maps">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d228.70386266313332!2d-46.72163895546565!3d-23.487077861025497!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cef913d23d521f%3A0x923bf9771fe81ebe!2sRua%20Guerino%20Giovani%20Leardini%2C%20133%20-%2004%20-%20Vila%20Barreto%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2002937-040!5e0!3m2!1spt-BR!2sbr!4v1618074550671!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3659.2614333964348!2d-46.72376378533939!3d-23.487091164738114!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cef96f5f902f7d%3A0x5da345362b4e2198!2sINSTITUTO%20GEHON!5e0!3m2!1spt-BR!2sbr!4v1618535791226!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
     </section>
 
     <!-- contato -->
